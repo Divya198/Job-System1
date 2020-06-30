@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: avinash
+Build-Jdk: 11.0.7
+Implementation-Title: spring-product-system
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: org.springframework
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/spring-product
+ -system/
+Created-By: Maven Integration for Eclipse
+
